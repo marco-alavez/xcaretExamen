@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>View Analytics App</label>
+    <license>InsightsSalesAnalyticsPsl</license>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>SalesAnalyticsUser</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>UseTemplatedApp</name>
+    </userPermissions>
+</PermissionSet>

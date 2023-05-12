@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Einstein Discovery Manager</label>
+    <license>SmartDataDiscoveryAnalystPsl</license>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ManageSmartDataDiscovery</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>UseSmartDataDiscovery</name>
+    </userPermissions>
+</PermissionSet>

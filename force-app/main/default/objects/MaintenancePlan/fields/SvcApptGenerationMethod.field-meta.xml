@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SvcApptGenerationMethod</fullName>
+    <inlineHelpText>Especifique el modo en que las citas de servicios se generan cuando hay más de un activo asociado con el plan de mantenimiento y el método de generación de la orden de trabajo es Una partida de orden de trabajo por activo.</inlineHelpText>
+    <trackHistory>false</trackHistory>
+</CustomField>

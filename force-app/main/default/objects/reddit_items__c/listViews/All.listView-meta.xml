@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>All</fullName>
+    <columns>NAME</columns>
+    <columns>kind__c</columns>
+    <columns>approved_at_utc__c</columns>
+    <columns>subreddit__c</columns>
+    <columns>selftext__c</columns>
+    <columns>author_fullname__c</columns>
+    <columns>saved__c</columns>
+    <columns>mod_reason_title__c</columns>
+    <columns>gilded__c</columns>
+    <columns>clicked__c</columns>
+    <columns>title__c</columns>
+    <filterScope>Everything</filterScope>
+    <label>Todos los registros</label>
+</ListView>
